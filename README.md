@@ -1,4 +1,4 @@
-# Full Adder in VHDL
+# Full Adder Gate in VHDL
 
 This repository contains the implementation of a 1-bit full adder in VHDL, a fundamental building block in digital electronics used to perform binary addition. The full adder adds two input binary digits and an input carry, generating a sum and a carry-out.
 
