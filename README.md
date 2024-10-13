@@ -82,7 +82,7 @@ To compile and simulate the VHDL code, you can use the **VHDPlus IDE**. Follow t
 
 MIT License
 
-Copyright (c) 2024 [Your Name or Organization]
+Copyright (c) 2024
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
