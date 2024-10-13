@@ -5,13 +5,13 @@ This repository contains the implementation of a 1-bit full adder in VHDL, a fun
 ## Description
 A full adder is essential in creating larger adders and arithmetic circuits in CPUs and ALUs. In this project:
 
-	The adder takes two 1-bit inputs (InPutNumberOne, InPutNumberTwo) and a carry input (InPutCarry).
-	It produces a sum output (OutPutSum) and a carry-out output (OutPutCarry).
+The adder takes two 1-bit inputs (InPutNumberOne, InPutNumberTwo) and a carry input (InPutCarry).
+It produces a sum output (OutPutSum) and a carry-out output (OutPutCarry).
 
 The logic behind the full adder:
 
-	The sum is computed using the XOR operation on the inputs and the carry.
-	The carry-out is computed using a combination of AND and OR operations.
+The sum is computed using the XOR operation on the inputs and the carry.
+The carry-out is computed using a combination of AND and OR operations.
 
 ## Entity and Architecture
 Entity
