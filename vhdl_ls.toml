@@ -1,0 +1,10 @@
+# auto-generated
+[Libraries]
+work.files = [
+	'FullAdderCircuit.vhd'
+]
+[libraries.work]
+files = [
+	'FullAdderCircuit.vhd'
+]
+# auto-generated-end

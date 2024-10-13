@@ -1,0 +1,8 @@
+﻿<Project>
+  <ItemGroup>
+    <File Include="FullAdderCircuit.vhd" />
+  </ItemGroup>
+  <PropertyGroup>
+    <HardwareStartPath>FullAdderCircuit.vhd</HardwareStartPath>
+  </PropertyGroup>
+</Project>
