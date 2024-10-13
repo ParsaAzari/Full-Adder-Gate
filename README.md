@@ -13,7 +13,7 @@ The logic behind the full adder:
 The sum is computed using the XOR operation on the inputs and the carry.
 The carry-out is computed using a combination of AND and OR operations.
 
-## Entity and Architecture
+## Entity
 Entity
 
 The entity defines the input and output ports:
