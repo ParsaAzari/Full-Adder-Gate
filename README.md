@@ -14,7 +14,6 @@ The sum is computed using the XOR operation on the inputs and the carry.
 The carry-out is computed using a combination of AND and OR operations.
 
 ## Entity
-Entity
 
 The entity defines the input and output ports:
 ```vhdl
